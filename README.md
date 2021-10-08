@@ -5,6 +5,7 @@ I'm Stijn, working as a software egineer. I love animating and perfecting design
 
 I love:
   - Node JS
+  - Animation
   - Swift
   - MongoDB
   - Adobe XD
