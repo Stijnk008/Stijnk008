@@ -1,19 +1,22 @@
 ### Hi there 👋
 ----
 
-I'm Stijn, working as a software egineer. I love animating and perfecting designs in code. Learn more about me below!
+I'm Stijn, working as a software egineer. Creating beautiful apps with a Passion for UI and Animation
 
-I love:
+Things I love:
   - Node JS
   - Animation
   - Swift
+  - SwiftUI
+  - Angular
   - MongoDB
   - Adobe XD
   - Sketch
+  - Figma
   - IoT
   - Automation
  
- Reach me here:
+Contact:
   - 💬 Ask me about iOS / Swift
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sj-kramer/).
   - ⚡ Fun fact: Surfing clears the mind
