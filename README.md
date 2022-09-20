@@ -5,10 +5,11 @@ I'm Stijn, working as a software egineer. Creating beautiful apps with a Passion
 
 Things I love:
   - Node JS
-  - Animation
   - Swift
   - SwiftUI
   - Angular
+  - JavaScript
+  - PineScript
   - MongoDB
   - Adobe XD
   - Sketch
