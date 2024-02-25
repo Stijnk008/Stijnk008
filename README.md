@@ -21,5 +21,3 @@ Contact:
   - 💬 Ask me about iOS / Swift
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sj-kramer/).
   - ⚡ Fun fact: Surfing clears the mind
-
-![Stijns's github stats](https://github-readme-stats.vercel.app/api?username=stijnk008&show_icons=true&theme=react&show_icons=true&count_private=true)
