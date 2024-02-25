@@ -1,7 +1,7 @@
 ### Hi there 👋
 ----
 
-I'm Stijn, working as a software egineer. Creating beautiful apps with a Passion for UI and Animation
+I'm Stijn, working as a mobile software engineer. Creating beautiful apps with a Passion for UI and Animation
 
 Things I love:
   - Node JS
