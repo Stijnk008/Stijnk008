@@ -20,4 +20,3 @@ Things I love:
 Contact:
   - 💬 Ask me about iOS / Swift
   - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/sj-kramer/).
-  - ⚡ Fun fact: Surfing clears the mind
